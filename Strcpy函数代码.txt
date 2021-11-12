@@ -16,3 +16,5 @@ char * Strcpy(char * s)
 	
 	return t;
 }
+
+//19031917Wuhai
