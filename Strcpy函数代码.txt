@@ -1,3 +1,5 @@
+//Author:B19031917 WuHai
+
 char * Strcpy(char * s)
 {
 	int length = 0;
